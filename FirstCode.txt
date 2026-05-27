@@ -1,3 +1,7 @@
 Hello World,
 hi,
 Hello ! 
+
+take input values from user 
+
+add the values
